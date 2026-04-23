@@ -1,4 +1,4 @@
-# NeomTech_Abdulwahab_Alharbi
+## Abdulwahab_Alharbi
 
 This project contains automation scripts for two web testing tasks using Playwright. 
 
